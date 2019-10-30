@@ -23,7 +23,7 @@
     "heroku": "^7.26.2",
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.10.3"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "sequelize-cli": "^5.5.0"
